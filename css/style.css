@@ -998,6 +998,11 @@ margin-left: auto;
 }
 
 
-.aussen{
-border:5px solid green;
+.innen{
+  background-image: url("https://www.thestatesman.com/wp-content/uploads/2017/08/1493458748-beauty-face-517.jpg");  /* Pfad zu Bild eingeben */
+  width:400px;                    /* Gewünschte Höhe eingeben */
+  height:400px;                   /* Gewünschte Breite eingeben */
+  background-position:center;
+  background-size:cover;
+  margin:auto;
 }
