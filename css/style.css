@@ -965,7 +965,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 --------------------------------------------------------------*/
 #footer {
   background: #343b40;
-  padding: 20px 0;
+  padding: 15px 0;
   color: #fff;
   font-size: 11px;
 }
@@ -975,7 +975,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #footer .credits {
-  padding-top: 5px;
+  padding-top: 3px;
   text-align: center;
   font-size: 13px;
   color: #ccc;
@@ -985,6 +985,6 @@ body.mobile-nav-active #mobile-nav-toggle {
 #footer .credits2 {
   padding-top: 3px;
   text-align: center;
-  font-size: 11px;
+  font-size: 10px;
   color: #ccc;
 }
