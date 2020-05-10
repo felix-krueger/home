@@ -850,8 +850,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #team .member .social i {
-  font-size: 30px;
-  margin: 0 4px;
+  font-size: 18px;
+  margin: 0 2px;
 }
 
 /* Contact Section
@@ -892,7 +892,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .social-links a {
-  font-size: 18px;
+  font-size: 35px;
   display: inline-block;
   background: #333;
   color: #fff;
@@ -900,8 +900,8 @@ body.mobile-nav-active #mobile-nav-toggle {
   padding: 8px 0;
   border-radius: 50%;
   text-align: center;
-  width: 36px;
-  height: 36px;
+  width: 50px;
+  height: 50px;
   transition: 0.3s;
 }
 
