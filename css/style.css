@@ -996,3 +996,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 margin-left: auto;
   margin-right: auto;
 }
+
+
+.aussen{
+border:5px solid green;
+}
