@@ -965,9 +965,9 @@ body.mobile-nav-active #mobile-nav-toggle {
 --------------------------------------------------------------*/
 #footer {
   background: #343b40;
-  padding: 30px 0;
+  padding: 20px 0;
   color: #fff;
-  font-size: 10px;
+  font-size: 11px;
 }
 
 #footer .copyright {
@@ -978,5 +978,13 @@ body.mobile-nav-active #mobile-nav-toggle {
   padding-top: 5px;
   text-align: center;
   font-size: 13px;
+  color: #ccc;
+}
+
+
+#footer .credits2 {
+  padding-top: 3px;
+  text-align: center;
+  font-size: 11px;
   color: #ccc;
 }
